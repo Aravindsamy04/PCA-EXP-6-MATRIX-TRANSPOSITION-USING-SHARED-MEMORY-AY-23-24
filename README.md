@@ -397,7 +397,6 @@ CHECK(cudaMemset(d_C, 0, nBytes));
 ```
 
 ## OUTPUT:
-![Uploading 327146466-f742dd7e-302e-4e4b-a955-4c7fa9e6eae0.png…]()
 
 
 ## RESULT:
